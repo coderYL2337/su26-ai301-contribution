@@ -1,6 +1,6 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#]: [Feature: Support for EditButton()]
 
-**Contribution Number:** [1 / 2 / 3]  
+**Contribution Number:** [1]  
 **Student:** [Yan Lu]  
 **Issue:** [https://github.com/skiptools/skip-ui/issues/112]  
 **Status:** [Phase I Complete ]
