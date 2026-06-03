@@ -3,18 +3,18 @@
 **Contribution Number:** [1 / 2 / 3]  
 **Student:** [Yan Lu]  
 **Issue:** [https://github.com/skiptools/skip-ui/issues/112]  
-**Status:** [Phase I ] [In Progress ]
+**Status:** [Phase I Complete ]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+
 The issue itself is well-scoped. EditButton in SwiftUI is a simple button that toggles the \.editMode environment value between .active and .inactive. It's not a complex view — its entire job is to mutate that one environment key and render an "Edit"/"Done" label.
 
 There's a clear pattern to follow. Looking at how other buttons like Button are implemented in the codebase (with a #if SKIP block containing a @Composable Render function), I woul'd do the same thing here. The repo README even walks through the exact implementation phases.
 
-It matches my skills in Swift and Kotlin.
+It matches my skills in Swift and Kotlin. I hope to learn how to contribute to a library.
 ---
 
 ## Understanding the Issue
